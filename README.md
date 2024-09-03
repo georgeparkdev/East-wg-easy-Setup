@@ -2,6 +2,10 @@
 
 Welcome to the Easy wg-easy setup guide! This repository provides a straightforward way to install and configure [wg-easy](https://github.com/wg-easy/wg-easy) on your server.
 
+<p align="center">
+  <img src="./docs/assets/wg-easy-panel.png" width="802" />
+</p>
+
 ## Overview
 
 This repository includes a setup script and configuration file to simplify the installation of `wg-easy`, a web-based management interface for WireGuard VPN. The setup script automates the installation of Docker, Docker Compose, and `wg-easy`, including the creation of necessary configuration files and SSL certificates.
